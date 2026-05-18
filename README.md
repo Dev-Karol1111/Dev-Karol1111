@@ -1,38 +1,20 @@
-## Hi there 👋
+# Hi, I'm Karol 👋
 
-I'm Karol, a young programmer based in Poland
+I am a software developer based in Poland, focused on building clean, functional, and purposeful software. I believe in true craftsmanship, developing my projects entirely from scratch without relying on copy-pasted templates. This profile is a living log of my active projects, experiments, and technical iterations.
 
-I mostyly work myself 
+## 🛠️ Tech Stack & Tools
 
-This is a fresh profile where I'll be uploading projects, experiments and thing I'm currently working on. Everything here is built from scratch, no copypaste templates.
+*   **Development:** Godot Engine | JetBrains Rider
+*   **Design & Art:** Aseprite (Pixel Art)
+*   **Environment:** Arch Linux (Hyprland WM)
 
----
-## Tools & Tech
- * Godot, Rider
- * Aseprite
- * Arch linux (hyperland)
+## 🎯 Current Focus
 
----
-## A Bit About Me
- * I have one cat
- * Into anime
- * I like building things that are simple, useful and easy to understand
+*   **Project:** [village game](https://github.com/Dev-Karol1111/village) (Working Title)
+*   **Status:** Active Development
+*   **Concept:** A custom-built simulation game focused on minimalist design and clear mechanics.
 
---- 
+## 🧠 Philosophy & Interests
 
-Currently I'm working on [village game](https://github.com/Dev-Karol1111/village)
-
-<!--
-**Dev-Karol1111/Dev-Karol1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Design Principle:** Building things that are simple, useful, and inherently easy to understand.
+*   **Interests:** Anime enthusiast, open-source enthusiast, and owner of one cat (the unofficial code reviewer).
